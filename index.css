@@ -7,8 +7,8 @@
 @layer base {
   :root {
     /* Premium Pastel Pink & Light Blue Color Scheme */
-    --background: 340 60% 97%;
-    --foreground: 240 10% 15%;
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
     --card: 0 0% 100%;
     --card-foreground: 240 10% 15%;
     --popover: 0 0% 100%;
