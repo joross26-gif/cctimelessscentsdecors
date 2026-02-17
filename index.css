@@ -9,8 +9,8 @@
     /* Premium Pastel Pink & Light Blue Color Scheme */
     --background: 0 0% 0%;
     --foreground: 0 0% 100%;
-    --card: 0 0% 100%;
-    --card-foreground: 240 10% 15%;
+    --card: 0 0% 8%;
+    --card-foreground: 0 0% 100%;
     --popover: 0 0% 100%;
     --popover-foreground: 240 10% 15%;
     --primary: 340 60% 75%;
@@ -23,8 +23,8 @@
     --accent-foreground: 240 10% 15%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
-    --border: 340 30% 88%;
-    --input: 340 30% 92%;
+    --border: 0 0% 18%;
+    --input: 0 0% 18%;
     --ring: 340 60% 75%;
     --radius: 1rem;
     
